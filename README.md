@@ -31,5 +31,5 @@ python3 manage.py runserver
 ```
 
 ## Live Demo
-The link to the live demo of the application can be found [here]().
+The link to the live demo of the application can be found [here](aman612.pythonanywhere.com).
 
