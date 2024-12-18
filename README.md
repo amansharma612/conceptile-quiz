@@ -11,7 +11,7 @@ The following functionalities are supported
 
 ## Assumptions and Implementation Details
 
-I have taken help of Claude Artifacts at appropriate locations to speed up the development process of the application. Hosting of the application is done on [pythonanywhere.com](pythonanywhere.com).
+I have taken help of Claude Artifacts at appropriate locations to speed up the development process of the application. Hosting of the application is done on [pythonanywhere.com](https://pythonanywhere.com).
 
 ## Building from source
 
@@ -31,5 +31,5 @@ python3 manage.py runserver
 ```
 
 ## Live Demo
-The link to the live demo of the application can be found [here](aman612.pythonanywhere.com).
+The link to the live demo of the application can be found [here](https://aman612.pythonanywhere.com).
 
